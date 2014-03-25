@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  */
 public class PanelFoot extends javax.swing.JPanel implements Runnable
 {
-
+//bien bossssééééééééééééééééééééé!
     Thread th = null;
     java.awt.Image terrain;
     java.awt.Image ballon;
